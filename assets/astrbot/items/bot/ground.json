@@ -27,6 +27,18 @@
                         }
                     }
                 ]
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/ground_right/protection"
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/ground_left/protection"
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/ground_middle/protection"
             }
         ]
     }

@@ -5,6 +5,22 @@
             {
                 "type": "model",
                 "model": "astrbot:bot/heavy"
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/heavy_front/protection"
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/heavy_behind/protection"
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/heavy_left/protection"
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/heavy_right/protection"
             }
         ]
     }

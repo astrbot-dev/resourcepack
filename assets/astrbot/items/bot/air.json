@@ -18,6 +18,14 @@
                         }
                     }
                 ]
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/air_front/protection"
+            },
+            {
+                "type": "model",
+                "model": "astrbot:modules/air_behind/protection"
             }
         ]
     }
