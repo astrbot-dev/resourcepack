@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "composite",
+        "models": [
+            {
+                "type": "select",
+                "property": "display_context",
+                "fallback": {
+                    "type": "model",
+                    "model": "astrbot:bot/ground"
+                },
+                "cases": [
+                    {
+                        "when": "fixed",
+                        "model": {
+                            "type": "condition",
+                            "property": "custom_model_data",
+                            "index": 0,
+                            "on_false": {
+                                "type": "model",
+                                "model": "astrbot:bot/ground"
+                            },
+                            "on_true": {
+                                "type": "model",
+                                "model": "astrbot:bot/ground_move"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

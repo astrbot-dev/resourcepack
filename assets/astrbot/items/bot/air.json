@@ -1,0 +1,24 @@
+{
+    "model": {
+        "type": "composite",
+        "models": [
+            {
+                "type": "select",
+                "property": "display_context",
+                "fallback": {
+                    "type": "model",
+                    "model": "astrbot:bot/air"
+                },
+                "cases": [
+                    {
+                        "when": "fixed",
+                        "model": {
+                            "type": "model",
+                            "model": "astrbot:bot/air_fly"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
