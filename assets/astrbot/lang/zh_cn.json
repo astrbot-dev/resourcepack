@@ -1,9 +1,12 @@
 {
+  "dialog.astrbot.astrbot_serial_number": "无人机编号：",
+  "item.astrbot.no_module": "此槽位未安装模块！",
   "dialog.astrbot.terminal.content": "玩家电量：",
   "dialog.astrbot.terminal.disable": "禁用",
   "dialog.astrbot.terminal.enable": "启用",
   "dialog.astrbot.terminal.follower": "已部署 跟随型无人机%s号",
   "dialog.astrbot.terminal.module": "模块",
+  "dialog.astrbot.see_module_info": "[查看模块详细信息]",
   "dialog.astrbot.terminal.title": "终端控制面板",
   "gui.apply": "应用此修改",
   "gui.unbinding": "解绑该无人机",
