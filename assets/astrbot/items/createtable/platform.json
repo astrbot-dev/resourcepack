@@ -1,0 +1,6 @@
+{
+  "model": {
+    "model": "astrbot:createtable/platform",
+    "type": "minecraft:model"
+  }
+}
