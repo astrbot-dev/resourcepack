@@ -33,5 +33,8 @@
   "item.astrbot.astrbot.lore.slot1": "[Slot 1]",
   "item.astrbot.astrbot.lore.slot2": "[Slot 2]",
   "item.astrbot.astrbot.lore.slot3": "[Slot 3]",
-  "item.astrbot.astrbot.lore.slot4": "[Slot 4]"
+  "item.astrbot.astrbot.lore.slot4": "[Slot 4]",
+
+  "tips.astrbot.createtable.guide": "右键可将机器人置于改装台上",
+  "tips.astrbot.bot.place.fail": "可部署机器人达到上限!"
 }
