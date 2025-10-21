@@ -33,7 +33,7 @@
   "item.astrbot.astrbot.lore.slot2": "[槽位2]",
   "item.astrbot.astrbot.lore.slot3": "[槽位3]",
   "item.astrbot.astrbot.lore.slot4": "[槽位4]",
-  "tellraw.no_power": "没电了！",
-  "tips.astrbot.createtable.guide": "右键可将机器人置于改装台上",
-  "tips.astrbot.bot.place.fail": "可部署机器人达到上限!"
+  "tips.astrbot.createtable.guide": "%s可将机器人置于改装台上",
+  "tips.astrbot.bot.place.fail": "可部署机器人达到上限!",
+  "tips.no_power": "没电了！"
 }

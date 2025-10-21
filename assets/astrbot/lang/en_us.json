@@ -33,7 +33,7 @@
   "item.astrbot.astrbot.lore.slot2": "[Slot 2]",
   "item.astrbot.astrbot.lore.slot3": "[Slot 3]",
   "item.astrbot.astrbot.lore.slot4": "[Slot 4]",
-  "tellraw.no_power": "No power!",
-  "tips.astrbot.createtable.guide": "右键可将机器人置于改装台上",
-  "tips.astrbot.bot.place.fail": "可部署机器人达到上限!"
+  "tips.astrbot.createtable.guide": "%s to place the astrbot on the assembly table",
+  "tips.astrbot.bot.place.fail": "The limit of deployable astrbots has been reached!",
+  "tips.no_power": "No power!"
 }
