@@ -36,6 +36,11 @@
 		"fixed": {
 			"translation": [0, 45, -0],
 			"scale": [1.99, 1.99, 1.99]
+		},
+		"on_shelf": {
+			"translation": [0, 18, 0],
+			"scale": [1.333, 1.333, 1.333],
+			"rotation": [0, 0, 0]
 		}
 	}
 }
