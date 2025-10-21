@@ -28,6 +28,8 @@
   "item.astrbot.negative_effect_generator.lore2": "冷却时间30秒",
   "item.astrbot.sonic_boom_transmitter": "音波发射器",
   "item.astrbot.sonic_boom_transmitter.lore": "让你的无人机像监守者那样发射音波",
+  "item.astrbot.solar_energy": "太阳能电池板",
+  "item.astrbot.solar_energy.lore": "将太阳能转化为机器运行的能量.",
   "item.astrbot.createtable": "组装台",
   "item.astrbot.astrbot.lore.slot1": "[槽位1]",
   "item.astrbot.astrbot.lore.slot2": "[槽位2]",

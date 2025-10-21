@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/air_behind/gun",
+    "model": "astrbot:modules/gun",
     "type": "minecraft:model"
   }
 }
