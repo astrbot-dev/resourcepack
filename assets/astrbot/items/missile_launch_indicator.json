@@ -1,0 +1,6 @@
+{
+  "model": {
+    "model": "astrbot:item/missile_launch_indicator",
+    "type": "minecraft:model"
+  }
+}
