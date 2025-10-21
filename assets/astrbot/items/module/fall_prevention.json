@@ -1,0 +1,6 @@
+{
+  "model": {
+    "model": "astrbot:modules/ground_middle/protection",
+    "type": "minecraft:model"
+  }
+}

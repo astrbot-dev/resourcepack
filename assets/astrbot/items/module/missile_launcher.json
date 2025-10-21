@@ -1,0 +1,6 @@
+{
+  "model": {
+    "model": "astrbot:modules/missile_carrier",
+    "type": "minecraft:model"
+  }
+}
