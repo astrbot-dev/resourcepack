@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/ground_middle/protection",
+    "model": "astrbot:modules/protection",
     "type": "minecraft:model"
   }
 }
