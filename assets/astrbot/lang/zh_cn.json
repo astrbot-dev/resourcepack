@@ -9,7 +9,7 @@
   "dialog.astrbot.see_module_info": "[查看模块详细信息]",
   "dialog.astrbot.terminal.title": "终端控制面板",
   "gui.apply": "应用此修改",
-  "gui.unbinding": "解绑该无人机",
+  "gui.unbinding": "回收无人机",
   "item.astrbot.active_defence_system": "主动防御系统",
   "item.astrbot.active_defence_system.lore": "拦截可能正在朝你飞过来的弹射物！",
   "item.astrbot.fall_prevention": "摔落保护",
