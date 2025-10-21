@@ -28,5 +28,10 @@
   "item.astrbot.sonic_boom_transmitter": "音波发射器",
   "item.astrbot.sonic_boom_transmitter.lore": "让你的无人机像监守者那样发射音波",
   "item.astrbot.terminal": "终端",
-  "item.astrbot.terminal.lore": "按%s以使用"
+  "item.astrbot.terminal.lore": "按%s以使用",
+  "item.astrbot.createtable": "组装台",
+  "item.astrbot.astrbot.lore.slot1": "[槽位1]",
+  "item.astrbot.astrbot.lore.slot2": "[槽位2]",
+  "item.astrbot.astrbot.lore.slot3": "[槽位3]",
+  "item.astrbot.astrbot.lore.slot4": "[槽位4]"
 }
