@@ -26,5 +26,10 @@
   "item.astrbot.negative_effect_generator.lore1": "mobs, and raid participants within 20 blocks of the surrounding area,",
   "item.astrbot.negative_effect_generator.lore2": "with a cooldown of 30 seconds.",
   "item.astrbot.sonic_boom_transmitter": "Sonic boom transmitter",
-  "item.astrbot.sonic_boom_transmitter.lore": "Make your drone emit sound waves like a guardian"
+  "item.astrbot.sonic_boom_transmitter.lore": "Make your drone emit sound waves like a guardian",
+  "item.astrbot.createtable": "Assembly Table",
+  "item.astrbot.astrbot.lore.slot1": "[Slot 1]",
+  "item.astrbot.astrbot.lore.slot2": "[Slot 2]",
+  "item.astrbot.astrbot.lore.slot3": "[Slot 3]",
+  "item.astrbot.astrbot.lore.slot4": "[Slot 4]"
 }
