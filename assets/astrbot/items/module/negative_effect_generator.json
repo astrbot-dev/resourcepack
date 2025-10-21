@@ -1,0 +1,6 @@
+{
+  "model": {
+    "model": "astrbot:modules/air_behind/neg",
+    "type": "minecraft:model"
+  }
+}
