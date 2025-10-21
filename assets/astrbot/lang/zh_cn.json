@@ -1,6 +1,7 @@
 {
   "dialog.astrbot.astrbot_serial_number": "无人机编号：",
-  "item.astrbot.no_module": "此槽位未安装模块！",
+  "dialog.astrbot.no_module": "此槽位未安装模块！",
+  "dialog.astrbot.power": "电量：",
   "dialog.astrbot.terminal.disable": "禁用",
   "dialog.astrbot.terminal.enable": "启用",
   "dialog.astrbot.terminal.module": "模块",
@@ -31,5 +32,6 @@
   "item.astrbot.astrbot.lore.slot1": "[槽位1]",
   "item.astrbot.astrbot.lore.slot2": "[槽位2]",
   "item.astrbot.astrbot.lore.slot3": "[槽位3]",
-  "item.astrbot.astrbot.lore.slot4": "[槽位4]"
+  "item.astrbot.astrbot.lore.slot4": "[槽位4]",
+  "tellraw.no_power": "没电了！"
 }

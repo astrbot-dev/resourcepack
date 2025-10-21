@@ -1,6 +1,7 @@
 {
   "dialog.astrbot.astrbot_serial_number": "Astrbot Serial Number: ",
-  "item.astrbot.no_module": "There is no module installed in this slot!",
+  "dialog.astrbot.no_module": "There is no module installed in this slot!",
+  "dialog.astrbot.power": "Power: ",
   "dialog.astrbot.terminal.disable": "Disable",
   "dialog.astrbot.terminal.enable": "Enable",
   "dialog.astrbot.terminal.module": "Module",
@@ -31,5 +32,6 @@
   "item.astrbot.astrbot.lore.slot1": "[Slot 1]",
   "item.astrbot.astrbot.lore.slot2": "[Slot 2]",
   "item.astrbot.astrbot.lore.slot3": "[Slot 3]",
-  "item.astrbot.astrbot.lore.slot4": "[Slot 4]"
+  "item.astrbot.astrbot.lore.slot4": "[Slot 4]",
+  "tellraw.no_power": "No power!"
 }
