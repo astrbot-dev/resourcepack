@@ -2,6 +2,6 @@
 	"pack": {
 		"min_format":[69,0],
 		"max_format": [1000,0],
-		"description": "astrobot resourcepack"
+		"description": "AMRbot resourcepack"
 	}
 }
