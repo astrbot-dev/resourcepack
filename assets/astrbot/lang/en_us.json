@@ -49,5 +49,8 @@
   "tips.astrbot.bot.place.fail": "The limit of deployable astrbots has been reached!",
   "tips.enable": "%s enabled",
   "tips.disable": "%s enabled",
-  "tips.no_power": "No power!"
+  "tips.no_power": "No power!",
+  "entity.astrbot.bot_ground":"Astrbot",
+  "entity.astrbot.bot_air":"Astrbot",
+  "entity.astrbot.bot_heavy":"Astrbot"
 }

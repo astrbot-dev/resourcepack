@@ -48,5 +48,8 @@
   "tips.astrbot.bot.place.fail": "可部署机器人达到上限!",
   "tips.enable": "%s已启用",
   "tips.disable": "%s已禁用",
-  "tips.no_power": "没电了！"
+  "tips.no_power": "没电了！",
+  "entity.astrbot.bot_ground":"机器人",
+  "entity.astrbot.bot_air":"机器人",
+  "entity.astrbot.bot_heavy":"机器人"
 }
