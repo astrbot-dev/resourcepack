@@ -40,10 +40,17 @@
                         }
                     },
                     {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_behind/solar"
+                        }
+                    },
+                    {
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/protection"
+                            "model": "astrbot:modules/air_behind/mending"
                         }
                     },
                     {
@@ -85,10 +92,38 @@
                         }
                     },
                     {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_front/solar"
+                        }
+                    },
+                    {
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/air_front/protection"
+                            "model": "astrbot:modules/air_front/mending"
+                        }
+                    },
+                    {
+                        "when": "active_defence_system",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_behind/ads"
+                        }
+                    },
+                    {
+                        "when": "sonic_boom_transmitter",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_behind/sonic_bommer"
+                        }
+                    },
+                    {
+                        "when": "m242_bushmaster",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_behind/gun"
                         }
                     }
                 ],

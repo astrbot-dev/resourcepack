@@ -31,7 +31,7 @@
             {
                 "type": "select",
                 "property": "custom_model_data",
-                "index": 0,
+                "index": 2,
                 "cases": [
                     {
                         "when": "fall_prevention",
@@ -44,7 +44,14 @@
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/ground_middle/protection"
+                            "model": "astrbot:modules/ground_left/mending"
+                        }
+                    },
+                    {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_left/solar"
                         }
                     }
                 ],
@@ -65,6 +72,20 @@
                         }
                     },
                     {
+                        "when": "mending_servicer",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_middle/mending"
+                        }
+                    },
+                    {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_middle/solar"
+                        }
+                    },
+                    {
                         "when": "active_defence_system",
                         "model": {
                             "type": "minecraft:model",
@@ -76,13 +97,6 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/ground_middle/gun"
-                        }
-                    },
-                    {
-                        "when": "mending_servicer",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/ground_middle/protection"
                         }
                     },
                     {
@@ -100,20 +114,27 @@
             {
                 "type": "select",
                 "property": "custom_model_data",
-                "index": 2,
+                "index": 0,
                 "cases": [
                     {
                         "when": "fall_prevention",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_right/protection"
+                            "model": "astrbot:modules/ground_right/protection"
                         }
                     },
                     {
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/ground_middle/protection"
+                            "model": "astrbot:modules/ground_right/mending"
+                        }
+                    },
+                    {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_right/solar"
                         }
                     }
                 ],

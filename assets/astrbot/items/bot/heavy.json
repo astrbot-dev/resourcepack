@@ -9,7 +9,7 @@
             {
                 "type": "select",
                 "property": "custom_model_data",
-                "index": 0,
+                "index": 1,
                 "cases": [
                     {
                         "when": "fall_prevention",
@@ -22,7 +22,14 @@
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_left/protection"
+                            "model": "astrbot:modules/heavy_left/mending"
+                        }
+                    },
+                    {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_left/solar"
                         }
                     }
                 ],
@@ -33,7 +40,7 @@
             {
                 "type": "select",
                 "property": "custom_model_data",
-                "index": 1,
+                "index": 0,
                 "cases": [
                     {
                         "when": "fall_prevention",
@@ -46,7 +53,14 @@
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_right/protection"
+                            "model": "astrbot:modules/heavy_right/mending"
+                        }
+                    },
+                    {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_right/solar"
                         }
                     }
                 ],
@@ -63,35 +77,42 @@
                         "when": "fall_prevention",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_benind/protection"
-                        }
-                    },
-                    {
-                        "when": "active_defence_system",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_benind/ads"
-                        }
-                    },
-                    {
-                        "when": "m242_bushmaster",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_benind/gun"
+                            "model": "astrbot:modules/heavy_behind/protection"
                         }
                     },
                     {
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_benind/protection"
+                            "model": "astrbot:modules/heavy_behind/mending"
+                        }
+                    },
+                    {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_behind/solar"
+                        }
+                    },
+                    {
+                        "when": "active_defence_system",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_behind/ads"
+                        }
+                    },
+                    {
+                        "when": "m242_bushmaster",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_behind/gun"
                         }
                     },
                     {
                         "when": "sonic_boom_transmitter",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_benind/sonic_boomer"
+                            "model": "astrbot:modules/heavy_behind/sonic_boomer"
                         }
                     }
                 ],
@@ -115,7 +136,35 @@
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
-                            "model": "astrbot:modules/heavy_front/protection"
+                            "model": "astrbot:modules/heavy_front/mending"
+                        }
+                    },
+                    {
+                        "when": "solar_energy",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_front/solar"
+                        }
+                    },
+                    {
+                        "when": "active_defence_system",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_behind/ads"
+                        }
+                    },
+                    {
+                        "when": "m242_bushmaster",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_behind/gun"
+                        }
+                    },
+                    {
+                        "when": "sonic_boom_transmitter",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_behind/sonic_boomer"
                         }
                     }
                 ],
