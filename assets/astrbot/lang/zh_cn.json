@@ -8,6 +8,7 @@
   "dialog.astrbot.see_module_info": "[查看模块详细信息]",
   "dialog.astrbot.terminal.title": "终端控制面板",
   "gui.apply": "应用此修改",
+  "gui.battery": "给无人机充电",
   "gui.follow": "使无人机跟随",
   "gui.unfollow": "使无人机不再跟随",
   "gui.unbinding": "回收无人机",
