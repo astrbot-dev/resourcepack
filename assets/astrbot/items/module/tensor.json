@@ -1,0 +1,6 @@
+{
+  "model": {
+    "model": "astrbot:modules/tensor",
+    "type": "minecraft:model"
+  }
+}
