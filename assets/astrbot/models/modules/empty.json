@@ -5,6 +5,7 @@
 		"0": "astrbot:block/empty",
 		"particle": "astrbot:block/empty"
 	},
+	"parent":"item/generated",
 	"elements": [
 		{
 			"from": [6, 0, 6],

@@ -5,6 +5,7 @@
 		"0": "astrbot:block/solar",
 		"particle": "astrbot:block/solar"
 	},
+	"parent":"item/generated",
 	"elements": [
 		{
 			"from": [7, 0.5, 7],

@@ -5,6 +5,7 @@
 		"0": "astrbot:block/tensor",
 		"particle": "astrbot:block/tensor"
 	},
+	"parent":"item/generated",
 	"elements": [
 		{
 			"from": [6, 0, 6],

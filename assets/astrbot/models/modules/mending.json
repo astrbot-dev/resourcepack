@@ -5,6 +5,7 @@
 		"0": "astrbot:block/mend",
 		"particle": "astrbot:block/mend"
 	},
+	"parent":"item/generated",
 	"elements": [
 		{
 			"from": [7, 0.5, 7],
