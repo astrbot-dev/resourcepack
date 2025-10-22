@@ -23,6 +23,8 @@
   "item.astrbot.missile_launcher": "Missile launcher",
   "item.astrbot.missile_launcher.lore": "Need to be used with %s",
   "item.astrbot.module": "Astrbot module",
+  "item.astrbot.module.attack": "Astrbot module (Attack)",
+  "item.astrbot.module.explore": "Astrbot module (Explore)",
   "item.astrbot.negative_effect_generator": "Negative effectgenerator",
   "item.astrbot.negative_effect_generator.lore": "Inflicts 10 seconds of slowness and weakness on undead mobs, arthropod",
   "item.astrbot.negative_effect_generator.lore1": "mobs, and raid participants within 20 blocks of the surrounding area,",
@@ -31,6 +33,8 @@
   "item.astrbot.sonic_boom_transmitter.lore": "Make your drone emit sound waves like a guardian",
   "item.astrbot.solar_energy": "Solar energy",
   "item.astrbot.solar_energy.lore": "Convert solar energy into energy for machine operation",
+  "item.astrbot.backpack": "External Backpack",
+  "item.astrbot.backpack.lore": "Organizes and stores your belongings in neat order.",
   "item.astrbot.createtable": "Assembly Table",
   "item.astrbot.astrbot.lore.slot1": "[Slot 1]",
   "item.astrbot.astrbot.lore.slot2": "[Slot 2]",
@@ -41,9 +45,13 @@
   "tips.astrbot.createtable.create_bot": "Press '%s+%s' to retrieve the assembled automaton",
   "tips.astrbot.createtable.slot_disable": "This slot is currently obstructed!",
   "tips.astrbot.createtable.heavy_bot_only": "This module may only be installed on heavy bots!",
-  "tips.astrbot.createtable.attack_slot_only": "Weapon modules must be installed exclusively in the central armament slots.",
+  "tips.astrbot.createtable.attack_slot_only": "Attack modules must be installed exclusively in the central armament slots.",
+  "tips.astrbot.createtable.too_many_module": "The maximum number of installations for this module has been reached!",
   "tips.astrbot.bot.place.fail": "The limit of deployable astrbots has been reached!",
   "tips.enable": "%s enabled",
   "tips.disable": "%s enabled",
-  "tips.no_power": "No power!"
+  "tips.no_power": "No power!",
+  "entity.astrbot.bot_ground":"Astrbot",
+  "entity.astrbot.bot_air":"Astrbot",
+  "entity.astrbot.bot_heavy":"Astrbot"
 }

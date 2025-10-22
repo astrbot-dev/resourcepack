@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/sonic_boomer",
+    "model": "astrbot:modules/solar",
     "type": "minecraft:model"
   }
 }

@@ -22,7 +22,8 @@
   "item.astrbot.missile_launch_indicator.lore": "指哪打哪",
   "item.astrbot.missile_launcher": "导弹发射器",
   "item.astrbot.missile_launcher.lore": "需要配合%s使用",
-  "item.astrbot.module": "无人机模块",
+  "item.astrbot.module.attack": "无人机模块（战斗）",
+  "item.astrbot.module.explore": "无人机模块（探索）",
   "item.astrbot.negative_effect_generator": "负面效果产生器",
   "item.astrbot.negative_effect_generator.lore": "对周围20格以内的亡灵生物、节肢生物和",
   "item.astrbot.negative_effect_generator.lore1": "袭击参与者施加10秒长的缓慢、虚弱效果，",
@@ -31,6 +32,8 @@
   "item.astrbot.sonic_boom_transmitter.lore": "让你的无人机像监守者那样发射音波",
   "item.astrbot.solar_energy": "太阳能电池板",
   "item.astrbot.solar_energy.lore": "将太阳能转化为机器运行的能量.",
+  "item.astrbot.backpack": "外置背包",
+  "item.astrbot.backpack.lore": "按序储存你的物品",
   "item.astrbot.createtable": "组装台",
   "item.astrbot.astrbot.lore.slot1": "[槽位1]",
   "item.astrbot.astrbot.lore.slot2": "[槽位2]",
@@ -42,8 +45,12 @@
   "tips.astrbot.createtable.slot_disable": "此槽位被阻挡！",
   "tips.astrbot.createtable.heavy_bot_only": "此模块只能被安装在重型机器人上！",
   "tips.astrbot.createtable.attack_slot_only": "武器模块只能被安装在中部的武器槽位上！",
+  "tips.astrbot.createtable.too_many_module": "此模块的安装数量已达到上限！",
   "tips.astrbot.bot.place.fail": "可部署机器人达到上限!",
   "tips.enable": "%s已启用",
   "tips.disable": "%s已禁用",
-  "tips.no_power": "没电了！"
+  "tips.no_power": "没电了！",
+  "entity.astrbot.bot_ground":"机器人",
+  "entity.astrbot.bot_air":"机器人",
+  "entity.astrbot.bot_heavy":"机器人"
 }
