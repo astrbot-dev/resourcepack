@@ -29,8 +29,8 @@
   "item.astrbot.sonic_boom_transmitter": "Sonic boom transmitter",
   "item.astrbot.sonic_boom_transmitter.lore": "Make your drone emit sound waves like a guardian",
 
-  "item.astrbot.solar_energy": "太阳能电池板",
-  "item.astrbot.solar_energy.lore": "将太阳能转化为机器运行的能量.",
+  "item.astrbot.solar_energy": "Solar Panel",
+  "item.astrbot.solar_energy.lore": "Converts sunlight into the energy that sustains astrbot operation.",
   
   "item.astrbot.createtable": "Assembly Table",
   "item.astrbot.astrbot.lore.slot1": "[Slot 1]",
