@@ -33,6 +33,8 @@
   "item.astrbot.sonic_boom_transmitter.lore": "Make your drone emit sound waves like a guardian",
   "item.astrbot.solar_energy": "Solar energy",
   "item.astrbot.solar_energy.lore": "Convert solar energy into energy for machine operation",
+  "item.astrbot.tensor": "Mineral detector",
+  "item.astrbot.tensor.lore": "This is not X-ray",
   "item.astrbot.backpack": "External Backpack",
   "item.astrbot.backpack.lore": "Organizes and stores your belongings in neat order.",
   "item.astrbot.mending_servicer": "Mending servicer",
