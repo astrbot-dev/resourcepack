@@ -8,6 +8,7 @@
   "dialog.astrbot.see_module_info": "[View module details]",
   "dialog.astrbot.terminal.title": "Terminal Control Panel",
   "gui.apply": "Apply the modification",
+  "gui.battery": "Charge the astrbot",
   "gui.follow": "Make astrbot follow",
   "gui.unbinding": "Unbind the astrbot",
   "gui.unfollow": "Make astrbot unfollow",
