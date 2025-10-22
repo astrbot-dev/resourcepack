@@ -41,6 +41,13 @@
                         }
                     },
                     {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_left/backpack"
+                        }
+                    },
+                    {
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
@@ -69,6 +76,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/ground_middle/protection"
+                        }
+                    },
+                    {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_middle/backpack"
                         }
                     },
                     {
@@ -121,6 +135,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/ground_right/protection"
+                        }
+                    },
+                    {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_right/backpack"
                         }
                     },
                     {

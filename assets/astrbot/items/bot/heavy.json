@@ -19,6 +19,13 @@
                         }
                     },
                     {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_left/backpack"
+                        }
+                    },
+                    {
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
@@ -50,6 +57,13 @@
                         }
                     },
                     {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_right/backpack"
+                        }
+                    },
+                    {
                         "when": "mending_servicer",
                         "model": {
                             "type": "minecraft:model",
@@ -78,6 +92,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/heavy_behind/protection"
+                        }
+                    },
+                    {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_behind/backpack"
                         }
                     },
                     {
@@ -130,6 +151,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/heavy_front/protection"
+                        }
+                    },
+                    {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_front/backpack"
                         }
                     },
                     {
