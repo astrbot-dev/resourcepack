@@ -151,6 +151,36 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.5, 0]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [-150, -44.99, -179.99],
+			"translation": [-2.5, 2.5, 0]
+		},
+		"head": {
+			"translation": [0, 13.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 3, 0]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "neg",

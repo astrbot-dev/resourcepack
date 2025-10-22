@@ -40,6 +40,13 @@
                         }
                     },
                     {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_behind/backpack"
+                        }
+                    },
+                    {
                         "when": "solar_energy",
                         "model": {
                             "type": "minecraft:model",
@@ -89,6 +96,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/air_front/protection"
+                        }
+                    },
+                    {
+                        "when": "backpack",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_front/backpack"
                         }
                     },
                     {
