@@ -35,5 +35,8 @@
   "item.astrbot.astrbot.lore.slot4": "[Slot 4]",
   "tips.astrbot.createtable.guide": "%s to place the astrbot on the assembly table",
   "tips.astrbot.bot.place.fail": "The limit of deployable astrbots has been reached!",
-  "tips.no_power": "No power!"
+  "tips.no_power": "No power!",
+  "entity.astrbot.bot_ground":"Astrbot",
+  "entity.astrbot.bot_air":"Astrbot",
+  "entity.astrbot.bot_heavy":"Astrbot"
 }
