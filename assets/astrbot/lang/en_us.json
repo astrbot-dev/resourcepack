@@ -13,6 +13,8 @@
   "gui.unfollow": "Make astrbot unfollow",
   "item.astrbot.active_defence_system": "Active defence system",
   "item.astrbot.active_defence_system.lore": "Intercept projectiles that may be heading your way!",
+  "item.astrbot.empty": "Blank Module",
+  "item.astrbot.empty.lore": "Serves as a foundation at the forging table for the creation of new modules.",
   "item.astrbot.fall_prevention": "Fall prevention",
   "item.astrbot.fall_prevention.lore": "The cooling time is 1 minute.",
   "item.astrbot.m242_bushmaster": "M242 Bushmaster",
