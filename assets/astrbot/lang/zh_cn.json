@@ -42,5 +42,7 @@
   "tips.astrbot.createtable.heavy_bot_only": "此模块只能被安装在重型机器人上！",
   "tips.astrbot.createtable.attack_slot_only": "武器模块只能被安装在中部的武器槽位上！",
   "tips.astrbot.bot.place.fail": "可部署机器人达到上限!",
+  "tips.enable": "%s已启用",
+  "tips.disable": "%s已禁用",
   "tips.no_power": "没电了！"
 }

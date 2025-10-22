@@ -28,10 +28,8 @@
   "item.astrbot.negative_effect_generator.lore2": "with a cooldown of 30 seconds.",
   "item.astrbot.sonic_boom_transmitter": "Sonic boom transmitter",
   "item.astrbot.sonic_boom_transmitter.lore": "Make your drone emit sound waves like a guardian",
-
-  "item.astrbot.solar_energy": "太阳能电池板",
-  "item.astrbot.solar_energy.lore": "将太阳能转化为机器运行的能量.",
-  
+  "item.astrbot.solar_energy": "Solar energy",
+  "item.astrbot.solar_energy.lore": "Convert solar energy into energy for machine operation",
   "item.astrbot.createtable": "Assembly Table",
   "item.astrbot.astrbot.lore.slot1": "[Slot 1]",
   "item.astrbot.astrbot.lore.slot2": "[Slot 2]",
@@ -44,5 +42,7 @@
   "tips.astrbot.createtable.heavy_bot_only": "This module may only be installed on heavy bots!",
   "tips.astrbot.createtable.attack_slot_only": "Weapon modules must be installed exclusively in the central armament slots.",
   "tips.astrbot.bot.place.fail": "The limit of deployable astrbots has been reached!",
+  "tips.enable": "%s enabled",
+  "tips.disable": "%s enabled",
   "tips.no_power": "No power!"
 }
