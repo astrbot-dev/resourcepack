@@ -15,7 +15,7 @@
   "item.astrbot.active_defence_system": "Active defence system",
   "item.astrbot.active_defence_system.lore": "Intercept projectiles that may be heading your way!",
   "item.astrbot.fall_prevention": "Fall prevention",
-  "item.astrbot.fall_prevention.lore": "The cooling time is 1 minute.",
+  "item.astrbot.fall_prevention.lore": "The cooling time is 20 seconds",
   "item.astrbot.m242_bushmaster": "M242 Bushmaster",
   "item.astrbot.m242_bushmaster.lore": "This module can fire projectiles!",
   "item.astrbot.missile_launch_indicator": "Missile launch indicator",

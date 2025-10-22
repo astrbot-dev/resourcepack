@@ -15,7 +15,7 @@
   "item.astrbot.active_defence_system": "主动防御系统",
   "item.astrbot.active_defence_system.lore": "拦截可能正在朝你飞过来的弹射物！",
   "item.astrbot.fall_prevention": "摔落保护",
-  "item.astrbot.fall_prevention.lore": "禁止高空抛物，冷却时间1分钟",
+  "item.astrbot.fall_prevention.lore": "禁止高空抛物，冷却时间20秒",
   "item.astrbot.m242_bushmaster": "M242链式炮",
   "item.astrbot.m242_bushmaster.lore": "这个模块可以发射炮弹！",
   "item.astrbot.missile_launch_indicator": "导弹发射指示器",
