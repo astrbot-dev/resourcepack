@@ -13,7 +13,7 @@
   "gui.unbinding": "Unbind the Robot",
   "gui.unfollow": "Make Robot unfollow",
   "item.astrbot.bot_ground":"Universal Robot",
-  "item.astrbot.bot_air":"Motorized Robot",
+  "item.astrbot.bot_air":"Aerial Robot",
   "item.astrbot.bot_heavy":"Arsenal Robot",
   "item.astrbot.active_defence_system": "Active defence system",
   "item.astrbot.active_defence_system.lore": "Intercept projectiles that may be heading your way!",
