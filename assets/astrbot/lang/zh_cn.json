@@ -33,6 +33,8 @@
   "item.astrbot.solar_energy.lore": "将太阳能转化为机器运行的能量.",
   "item.astrbot.backpack": "外置背包",
   "item.astrbot.backpack.lore": "按序储存你的物品",
+  "item.astrbot.mending_servicer": "修补器",
+  "item.astrbot.mending_servicer.lore": "消耗电量来修补你身上的装备",
   "item.astrbot.createtable": "组装台",
   "item.astrbot.astrbot.lore.slot1": "[槽位1]",
   "item.astrbot.astrbot.lore.slot2": "[槽位2]",

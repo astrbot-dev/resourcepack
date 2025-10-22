@@ -34,6 +34,8 @@
   "item.astrbot.solar_energy.lore": "Convert solar energy into energy for machine operation",
   "item.astrbot.backpack": "External Backpack",
   "item.astrbot.backpack.lore": "Organizes and stores your belongings in neat order.",
+  "item.astrbot.mending_servicer": "Mending servicer",
+  "item.astrbot.mending_servicer.lore": "Use up some energy to fix your gear.",
   "item.astrbot.createtable": "Assembly Table",
   "item.astrbot.astrbot.lore.slot1": "[Slot 1]",
   "item.astrbot.astrbot.lore.slot2": "[Slot 2]",
