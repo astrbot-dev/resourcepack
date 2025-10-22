@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/air_behind/tensor",
+    "model": "astrbot:modules/tensor",
     "type": "minecraft:model"
   }
 }
