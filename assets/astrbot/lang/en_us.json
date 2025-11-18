@@ -63,7 +63,10 @@
   "entity.astrbot.bot_ground":"Robot",
   "entity.astrbot.bot_air":"Robot",
   "entity.astrbot.bot_heavy":"Robot",
-  "death.attack.m242":"$1%s is killed by M242 Bushmaster",
-  "death.attack.m242.player":"$1%s is killed by M242 Bushmaster",
-  "death.attack.m242.item":"$1%s is killed by M242 Bushmaster"
+  "death.attack.m242":"%1$s is killed by M242 Bushmaster",
+  "death.attack.m242.player":"%1$s is killed by M242 Bushmaster",
+  "death.attack.m242.item":"%1$s is killed by M242 Bushmaster",
+  "death.attack.missile":"%1$s was killed by a missile",
+  "death.attack.missile.player":"%1$s was killed by a missile fired by %2$s",
+  "death.attack.missile.item":"%1$s was killed by a missile fired by %2$s"
 }

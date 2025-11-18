@@ -63,7 +63,10 @@
   "entity.astrbot.bot_ground":"机器人",
   "entity.astrbot.bot_air":"机器人",
   "entity.astrbot.bot_heavy":"机器人",
-  "death.attack.m242":"$1%s被M242链式炮击杀",
-  "death.attack.m242.player":"$1%s被M242链式炮击杀",
-  "death.attack.m242.item":"$1%s被M242链式炮击杀"
+  "death.attack.m242":"%1$s被M242链式炮击杀",
+  "death.attack.m242.player":"%1$s被M242链式炮击杀",
+  "death.attack.m242.item":"%1$s被M242链式炮击杀",
+  "death.attack.missile":"%1$s被导弹炸死了",
+  "death.attack.missile.player":"%1$s被%2$s发射的导弹炸死了",
+  "death.attack.missile.item":"%1$s被%2$s发射的导弹炸死了"
 }
