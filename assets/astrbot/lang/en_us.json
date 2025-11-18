@@ -62,5 +62,8 @@
   "tips.no_power": "No power!",
   "entity.astrbot.bot_ground":"Robot",
   "entity.astrbot.bot_air":"Robot",
-  "entity.astrbot.bot_heavy":"Robot"
+  "entity.astrbot.bot_heavy":"Robot",
+  "death.attack.m242":"$1%s is killed by M242 Bushmaster",
+  "death.attack.m242.player":"$1%s is killed by M242 Bushmaster",
+  "death.attack.m242.item":"$1%s is killed by M242 Bushmaster"
 }
