@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/neg",
+    "model": "astrbot:item/neg",
     "type": "minecraft:model"
   }
 }

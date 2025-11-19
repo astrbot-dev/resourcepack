@@ -1,150 +1,167 @@
 {
     "model": {
-        "type": "composite",
-        "models": [
+        "type": "select",
+        "property": "display_context",
+        "cases": [
             {
-                "type": "select",
-                "property": "display_context",
-                "fallback": {
-                    "type": "condition",
-                    "property": "using_item",
-                    "on_true": {
-                        "type": "model",
-                        "model": "astrbot:bot/air"
-                    },
-                    "on_false": {
-                        "type": "model",
-                        "model": "astrbot:bot/air"
-                    }
-                },
-                "cases": [
-                    {
-                        "when": "fixed",
-                        "model": {
-                            "type": "model",
-                            "model": "astrbot:bot/air_fly"
-                        }
-                    }
-                ]
-            },
-            {
-                "type": "select",
-                "property": "custom_model_data",
-                "index": 0,
-                "cases": [
-                    {
-                        "when": "fall_prevention",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/protection"
-                        }
-                    },
-                    {
-                        "when": "backpack",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/backpack"
-                        }
-                    },
-                    {
-                        "when": "solar_energy",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/solar"
-                        }
-                    },
-                    {
-                        "when": "mending_servicer",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/mending"
-                        }
-                    },
-                    {
-                        "when": "active_defence_system",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/ads"
-                        }
-                    },
-                    {
-                        "when": "sonic_boom_transmitter",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/sonic_bommer"
-                        }
-                    },
-                    {
-                        "when": "m242_bushmaster",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/gun"
-                        }
-                    }
+                "when": [
+                    "none",
+                    "fixed",
+                    "on_shelf"
                 ],
-                "fallback": {
-                    "type": "empty"
-                }
-            },
-            {
-                "type": "select",
-                "property": "custom_model_data",
-                "index": 1,
-                "cases": [
-                    {
-                        "when": "fall_prevention",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_front/protection"
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "select",
+                            "property": "display_context",
+                            "fallback": {
+                                "type": "condition",
+                                "property": "using_item",
+                                "on_true": {
+                                    "type": "model",
+                                    "model": "astrbot:bot/air"
+                                },
+                                "on_false": {
+                                    "type": "model",
+                                    "model": "astrbot:bot/air"
+                                }
+                            },
+                            "cases": [
+                                {
+                                    "when": "fixed",
+                                    "model": {
+                                        "type": "model",
+                                        "model": "astrbot:bot/air_fly"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "select",
+                            "property": "custom_model_data",
+                            "index": 0,
+                            "cases": [
+                                {
+                                    "when": "fall_prevention",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_behind/protection"
+                                    }
+                                },
+                                {
+                                    "when": "backpack",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_behind/backpack"
+                                    }
+                                },
+                                {
+                                    "when": "solar_energy",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_behind/solar"
+                                    }
+                                },
+                                {
+                                    "when": "mending_servicer",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_behind/mending"
+                                    }
+                                },
+                                {
+                                    "when": "active_defence_system",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_behind/ads"
+                                    }
+                                },
+                                {
+                                    "when": "sonic_boom_transmitter",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_behind/sonic_bommer"
+                                    }
+                                },
+                                {
+                                    "when": "m242_bushmaster",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_behind/gun"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "empty"
+                            }
+                        },
+                        {
+                            "type": "select",
+                            "property": "custom_model_data",
+                            "index": 1,
+                            "cases": [
+                                {
+                                    "when": "fall_prevention",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_front/protection"
+                                    }
+                                },
+                                {
+                                    "when": "backpack",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_front/backpack"
+                                    }
+                                },
+                                {
+                                    "when": "solar_energy",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_front/solar"
+                                    }
+                                },
+                                {
+                                    "when": "mending_servicer",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_front/mending"
+                                    }
+                                },
+                                {
+                                    "when": "active_defence_system",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_front/ads"
+                                    }
+                                },
+                                {
+                                    "when": "sonic_boom_transmitter",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_front/sonic_bommer"
+                                    }
+                                },
+                                {
+                                    "when": "m242_bushmaster",
+                                    "model": {
+                                        "type": "minecraft:model",
+                                        "model": "astrbot:modules/air_front/gun"
+                                    }
+                                }
+                            ],
+                            "fallback": {
+                                "type": "empty"
+                            }
                         }
-                    },
-                    {
-                        "when": "backpack",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_front/backpack"
-                        }
-                    },
-                    {
-                        "when": "solar_energy",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_front/solar"
-                        }
-                    },
-                    {
-                        "when": "mending_servicer",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_front/mending"
-                        }
-                    },
-                    {
-                        "when": "active_defence_system",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/ads"
-                        }
-                    },
-                    {
-                        "when": "sonic_boom_transmitter",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/sonic_bommer"
-                        }
-                    },
-                    {
-                        "when": "m242_bushmaster",
-                        "model": {
-                            "type": "minecraft:model",
-                            "model": "astrbot:modules/air_behind/gun"
-                        }
-                    }
-                ],
-                "fallback": {
-                    "type": "empty"
+                    ]
                 }
             }
-        ]
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "astrbot:item/bot_air"
+        }
     }
 }

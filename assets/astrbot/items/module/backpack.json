@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/backpack",
+    "model": "astrbot:item/backpack",
     "type": "minecraft:model"
   }
 }

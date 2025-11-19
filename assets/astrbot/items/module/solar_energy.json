@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/solar",
+    "model": "astrbot:item/solar",
     "type": "minecraft:model"
   }
 }

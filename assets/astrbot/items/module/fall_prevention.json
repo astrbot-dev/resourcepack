@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/protection",
+    "model": "astrbot:item/protection",
     "type": "minecraft:model"
   }
 }

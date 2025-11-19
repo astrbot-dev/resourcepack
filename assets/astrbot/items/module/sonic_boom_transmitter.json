@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/sonic_boomer",
+    "model": "astrbot:item/sonic_boomer",
     "type": "minecraft:model"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/mending",
+    "model": "astrbot:item/mending",
     "type": "minecraft:model"
   }
 }

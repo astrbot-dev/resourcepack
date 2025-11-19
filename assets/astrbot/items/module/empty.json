@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/empty",
+    "model": "astrbot:item/empty",
     "type": "minecraft:model"
   }
 }

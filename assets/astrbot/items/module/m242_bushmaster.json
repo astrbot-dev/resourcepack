@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/gun",
+    "model": "astrbot:item/gun",
     "type": "minecraft:model"
   }
 }

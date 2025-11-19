@@ -1,6 +1,6 @@
 {
   "model": {
-    "model": "astrbot:modules/missile_carrier",
+    "model": "astrbot:item/missile_carrier",
     "type": "minecraft:model"
   }
 }
