@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "display_context",
+        "fallback": {
+            "type": "model",
+            "model": "astrbot:recipes/item"
+        },
+        "cases": [
+            {
+                "when": ["firstperson_lefthand","firstperson_righthand","fixed"],
+                "model": {
+                    "type": "model",
+                    "model": "astrbot:recipes/backpack"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "astrbot:item/recipes",
+		"particle": "astrbot:item/recipes"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 7],
+			"to": [14, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6]},
+			"faces": {
+				"north": {"uv": [14.25, 14, 15.75, 16], "texture": "#0"},
+				"east": {"uv": [15.625, 14, 15.75, 16], "texture": "#0"},
+				"south": {"uv": [14.25, 14, 15.75, 16], "texture": "#0"},
+				"west": {"uv": [14.25, 14, 14.375, 16], "texture": "#0"},
+				"up": {"uv": [14.25, 14, 15.75, 14.125], "texture": "#0"},
+				"down": {"uv": [14.25, 15.875, 15.75, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 13, 7]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [0, 0, 0]
+		},
+		"on_shelf": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, 0.25],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
