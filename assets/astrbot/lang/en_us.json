@@ -119,6 +119,7 @@
   "tips.astrbot.createtable.heavy_bot_only": "This module may only be installed on heavy bots!",
   "tips.astrbot.createtable.attack_slot_only": "Attack modules must be installed exclusively in the central armament slots.",
   "tips.astrbot.createtable.too_many_module": "The maximum number of installations for this module has been reached!",
+  "tips.astrbot.createtable.illegal_slot": "This module cannot be installed on this slot!",
   "tips.astrbot.bot.place.fail": "The limit of deployable astrbots has been reached!",
   "tips.enable": "%s enabled",
   "tips.disable": "%s enabled",
