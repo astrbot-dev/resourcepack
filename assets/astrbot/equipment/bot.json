@@ -1,0 +1,14 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "astrbot:bot"
+            }
+        ],
+        "humanoid_leggings": [
+            {
+                "texture": "astrbot:bot"
+            }
+        ]
+    }
+}

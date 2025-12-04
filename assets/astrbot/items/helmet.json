@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "select",
+		"fallback": {
+			"type": "model",
+			"model": "astrbot:equipments/helmet"
+		},
+		"property": "display_context",
+		"cases": [
+			{
+				"when": ["head"],
+				"model": {
+					"type": "model",
+					"model": "astrbot:item/bothead"
+				}
+			}
+		]
+	}
+}
