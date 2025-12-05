@@ -60,6 +60,13 @@
                             "type": "minecraft:model",
                             "model": "astrbot:modules/ground_left/solar"
                         }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_left/tensor"
+                        }
                     }
                 ],
                 "fallback": {
@@ -119,6 +126,13 @@
                             "type": "minecraft:model",
                             "model": "astrbot:modules/ground_middle/sonic_boomer"
                         }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_middle/tensor"
+                        }
                     }
                 ],
                 "fallback": {
@@ -156,6 +170,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/ground_right/solar"
+                        }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/ground_right/tensor"
                         }
                     }
                 ],

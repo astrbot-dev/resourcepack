@@ -38,6 +38,13 @@
                             "type": "minecraft:model",
                             "model": "astrbot:modules/heavy_left/solar"
                         }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_left/tensor"
+                        }
                     }
                 ],
                 "fallback": {
@@ -75,6 +82,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/heavy_right/solar"
+                        }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_right/tensor"
                         }
                     }
                 ],
@@ -149,6 +163,13 @@
                             "type": "minecraft:model",
                             "model": "astrbot:modules/heavy_behind/neg"
                         }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_behind/tensor"
+                        }
                     }
                 ],
                 "fallback": {
@@ -221,6 +242,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/heavy_front/neg"
+                        }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/heavy_front/tensor"
                         }
                     }
                 ],

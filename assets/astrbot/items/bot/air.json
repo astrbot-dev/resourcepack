@@ -80,6 +80,13 @@
                             "type": "minecraft:model",
                             "model": "astrbot:modules/air_behind/gun"
                         }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_behind/tensor"
+                        }
                     }
                 ],
                 "fallback": {
@@ -138,6 +145,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "astrbot:modules/air_front/gun"
+                        }
+                    },
+                    {
+                        "when": "tensor",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "astrbot:modules/air_front/tensor"
                         }
                     }
                 ],
