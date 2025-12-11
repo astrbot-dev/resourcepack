@@ -21,6 +21,8 @@
   "advancements.astrbot.supersonic.description":"Prove that you are more like a WARDEN than a Robot",
   "advancements.astrbot.missile.title":"Guided attack in transit Detected",
   "advancements.astrbot.missile.description":"Guide the missile module to attack the target",
+  "advancements.astrbot.neg.title":"Negative Effect Generator",
+  "advancements.astrbot.neg.description":"Periodically apply slow and weak effects to the surrounding monsters",
 
   "advancements.astrbot.ads.title":"Active defence system",
   "advancements.astrbot.ads.description":"Intercept projectiles that may be heading your way!",

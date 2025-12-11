@@ -40,6 +40,8 @@
   "advancements.astrbot.sonic.description":"自动搜索敌人并发射可以穿透墙壁的声波攻击",
   "advancements.astrbot.tensor.title":"矿物探测仪",
   "advancements.astrbot.tensor.description":"探测周围可挖掘的矿物",
+  "advancements.astrbot.neg.title":"负面效果产生器",
+  "advancements.astrbot.neg.description":"周期性对周围怪物施加缓慢和虚弱效果",
   
   "dialog.astrbot.name_default":"机器人",
   "dialog.astrbot.astrbot_serial_number": "机器人编号：",
