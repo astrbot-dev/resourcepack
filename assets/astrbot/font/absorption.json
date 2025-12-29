@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "astrbot:font/absorption.png",
+            "height": 8,
+            "ascent": 8,
+            "chars": [
+                "\u0001"
+            ]
+        }
+    ]
+}
